@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "repository": "https://github.com/XdityaHalder/SankiMusic",
-    "success_url": "https://t.me/AdityaDiscus",
+    "success_url": "https://t.me/botsByDev",
     "stack": "container",
     "env": {
         "API_ID": {
