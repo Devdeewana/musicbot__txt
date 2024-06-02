@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/XdityaHalder/SankiMusic",
+    "repository": "https://github.com/Devdeewana/musicbot__txt",
     "success_url": "https://t.me/botsByDev",
     "stack": "container",
     "env": {
